@@ -5,4 +5,4 @@ __________________________________________
 
 A sample barber shop HTML+CSS  responsive page 
 
-![](gif.gif)
+![](presentation.gif)
